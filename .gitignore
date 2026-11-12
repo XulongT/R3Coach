@@ -1,0 +1,10 @@
+node_modules/
+public/app.mjs
+public/app.mjs.map
+dist/
+data/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
